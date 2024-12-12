@@ -15,8 +15,7 @@ public class GUIDriver extends Application {
 	Die d1 = new Die(6);
 	Die d2 = new Die(6);
 	int currentRollV;
-	boolean diceRolled= false;
-	boolean gameOver; 
+	boolean diceRolled= false; 
 	int inputValue = 0;
 	
 	@Override
